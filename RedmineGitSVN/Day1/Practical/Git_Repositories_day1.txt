@@ -1,0 +1,7 @@
+Day1 Repositorie: https ://github.com/shreyal1998/Gitdemo.git
+
+Total Commits : 9 commits
+
+Performed push,pull and conflicts : 
+
+2-3 conflicts solved 
