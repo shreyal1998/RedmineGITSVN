@@ -1,0 +1,7 @@
+day2 Repositorie : https://github.com/shreyal1998/Day2.git
+
+Total commits : 7 commits
+
+performed stage,stash and conflicts with stash :
+
+1-2 conflicts solved
