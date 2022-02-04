@@ -1,0 +1,12 @@
+SVN :-
+    Import the repository
+    Checkout the repository
+    Commit/update
+    Resolving conflict(merge)
+    adding to ignore list
+
+ 
+
+download tortoise SVN
+SVN Repository
+Checkout of SVN Repository
